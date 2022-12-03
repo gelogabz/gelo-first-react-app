@@ -23,7 +23,8 @@ const Student = () => {
         });
     }, []); //check
 
-    const submitBtn = () => {
+    const submitBtn = (e) => {
+        e.preventDefault();
         let getData = new FormData();
         getData.append('fname', fname); //key-value pairs
         getData.append('lname', lname); //key-value pairs
