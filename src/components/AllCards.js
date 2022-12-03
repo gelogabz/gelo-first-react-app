@@ -7,7 +7,7 @@ import four from '../assets/shoes.jpg'
 
 const AllCards = () => {
     return (
-        <section className="container d-flex justify-content-center mx-auto">
+        <section className="container-fluid d-flex justify-content-center mx-auto">
             <Card img={one} className="img-fluid" />
             <Card img={two} className="img-fluid" />
             <Card img={three} className="img-fluid" />
