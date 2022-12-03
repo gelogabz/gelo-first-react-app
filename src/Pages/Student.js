@@ -1,5 +1,5 @@
 import React from 'react'
-import { useEffect, useState } from 'react'; //check
+import { useState, useEffect } from 'react'; //check
 import axios from 'axios';
 
 
