@@ -15,10 +15,10 @@ const Navbar = () => {
                             <Link className="nav-link active" aria-current="page" to="/gelo-first-react-app">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/gelo-first-react-app/Student">Student</Link>
+                            <Link className="nav-link" to="/Student">Student</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/gelo-first-react-app/Pricing">Pricing</Link>
+                            <Link className="nav-link" to="/Pricing">Pricing</Link>
                         </li>
                     </ul>
                 </div>
