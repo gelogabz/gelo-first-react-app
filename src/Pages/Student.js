@@ -36,6 +36,13 @@ const Student = () => {
             url: 'http://localhost/sat-app/db.php', //db link
             data: getData,
             config: "Content-Type='multipart/form-data'"
+        }).then((response) => {
+            alert('Added successfully!');
+            const url = 'http://localhost/sat-app/db.php';
+            axios.get(url).then((response) => {
+                setStudents(response.data);
+                console.log(students);
+            });
         });
     }
 
