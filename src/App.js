@@ -15,6 +15,8 @@ function App() {
       <div>
         <Routes>
           <Route path='/gelo-first-react-app/' element={<Home />} />
+          <Route path='/' element={<Home />} />
+          <Route path='/Home' element={<Home />} />
           <Route path='/Student' element={<Student />} />
           <Route path='/Pricing' element={<Pricing />} />
         </Routes>
