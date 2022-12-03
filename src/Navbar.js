@@ -12,13 +12,13 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <Link className="nav-link active" aria-current="page" to="/">Home</Link>
+                            <Link className="nav-link active" aria-current="page" to="/gelo-first-react-app">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/Student">Student</Link>
+                            <Link className="nav-link" to="/gelo-first-react-app/Student">Student</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/Pricing">Pricing</Link>
+                            <Link className="nav-link" to="/gelo-first-react-app/Pricing">Pricing</Link>
                         </li>
                     </ul>
                 </div>
