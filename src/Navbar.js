@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-dark bg-dark navbar-expand-lg">
             <div className="container-fluid">
-                <Link className="navbar-brand" to="/gelo-first-react-app">WD20P Paluwagan</Link>
+                <Link className="navbar-brand" to="/Home">WD20P Paluwagan</Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
