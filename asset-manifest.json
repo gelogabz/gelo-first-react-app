@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/gelo-first-react-app/static/css/main.073c9b0a.css",
-    "main.js": "/gelo-first-react-app/static/js/main.fcde898f.js",
+    "main.js": "/gelo-first-react-app/static/js/main.2c7ce17b.js",
     "static/media/shoes.jpg": "/gelo-first-react-app/static/media/shoes.945015f7f21b92116919.jpg",
     "static/media/deptstore3.jpg": "/gelo-first-react-app/static/media/deptstore3.eb4c36cabc64763a3c64.jpg",
     "static/media/deptstore2.jpg": "/gelo-first-react-app/static/media/deptstore2.c5c24879e18f14feecab.jpg",
     "static/media/deptstore.jpg": "/gelo-first-react-app/static/media/deptstore.f5fe16f232499c4f00f8.jpg",
     "index.html": "/gelo-first-react-app/index.html",
     "main.073c9b0a.css.map": "/gelo-first-react-app/static/css/main.073c9b0a.css.map",
-    "main.fcde898f.js.map": "/gelo-first-react-app/static/js/main.fcde898f.js.map"
+    "main.2c7ce17b.js.map": "/gelo-first-react-app/static/js/main.2c7ce17b.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fcde898f.js"
+    "static/js/main.2c7ce17b.js"
   ]
 }
