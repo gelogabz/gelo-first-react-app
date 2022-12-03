@@ -14,7 +14,7 @@ function App() {
       <Navbar />
       <div>
         <Routes>
-          <Route path='/Home' element={<Home />} />
+          <Route path='/gelo-first-react-app/' element={<Home />} />
           <Route path='/Student' element={<Student />} />
           <Route path='/Pricing' element={<Pricing />} />
         </Routes>
