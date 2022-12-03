@@ -31,6 +31,10 @@ const Student = () => {
         getData.append('age', age); //key-value pairs
         getData.append('function', 'insert');
 
+        setFname('');
+        setLname('');
+        setAge('');
+
         axios({
             method: 'POST', //either GET or POST
             url: 'http://localhost/sat-app/db.php', //db link
